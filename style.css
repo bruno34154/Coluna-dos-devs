@@ -31,6 +31,38 @@
 	font-family: arial;
 	color: white;
 }
+.textForm{
+	padding-left: 10px;
+	font-family: arial;
+	font-size: 25px;
+	color: white;
+}
+#roundedInput{
+	border-radius: 10px;
+	width:50%;
+	padding: 10px;
+}
+#roundedEmail{
+	border-radius: 10px;
+	width:50%;
+	padding: 10px;
+}
+#buttonInput{
+	appearance: none;
+	-webkit-appearance: none;
+	padding: 10px;
+	border:none;
+	border-radius: 5px;
+	font-weight: 600;
+	width: 50%;
+	background-color: #ff0000;
+	color: #fff;
+	font-size: 20px;
+
+}
+body{
+	box-sizing: border-box;
+}
 ul{
 	margin: 0px;
 	padding: 0px;
